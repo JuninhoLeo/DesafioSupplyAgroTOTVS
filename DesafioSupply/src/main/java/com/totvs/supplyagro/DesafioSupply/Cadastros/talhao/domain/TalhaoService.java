@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class TalhaoService extends GenericService<Talhao> {
 
+    @Autowired
     private TalhaoRepository repository;
 
     @Override

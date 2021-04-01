@@ -1,9 +1,9 @@
 package com.totvs.supplyagro.DesafioSupply.commons.base.application;
 
 import com.totvs.supplyagro.DesafioSupply.commons.base.documentation.DefaultResponseDocumentation;
-import com.totvs.supplyagro.DesafioSupply.commons.base.domain.EntityBase;
 import com.totvs.supplyagro.DesafioSupply.commons.base.domain.GenericService;
 import com.totvs.supplyagro.DesafioSupply.exceptions.RecordNotFoundException;
+import com.totvs.supplyagro.DesafioSupply.commons.base.domain.EntityBase;
 import com.totvs.tjf.api.context.v1.request.ApiFieldRequest;
 import com.totvs.tjf.api.context.v1.request.ApiPageRequest;
 import com.totvs.tjf.api.context.v1.request.ApiSortRequest;

@@ -9,10 +9,10 @@
 		<artifactId>tjf-boot-starter</artifactId>
 		<version>1.16.1-RELEASE</version>
 	</parent>
-	<groupId>com.totvs.supplyagro</groupId>
+	<groupId>com.totvs</groupId>
 	<artifactId>DesafioSupply</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DesafioSupply</name>
+	<name>Desafio Supply</name>
 
 	<dependencies>
 		<!-- Dependências do Spring -->
@@ -165,17 +165,6 @@
 			<version>RELEASE</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>org.junit.jupiter</groupId>
-			<artifactId>junit-jupiter</artifactId>
-			<version>RELEASE</version>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.hibernate</groupId>
-			<artifactId>hibernate-entitymanager</artifactId>
-			<version>5.2.3.Final</version>
-		</dependency>
 	</dependencies>
 
 	<repositories>
@@ -187,6 +176,7 @@
 	</repositories>
 
 	<build>
+		<finalName>minha-borracharia-api</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>

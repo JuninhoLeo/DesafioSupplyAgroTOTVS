@@ -7,7 +7,6 @@ import com.totvs.tjf.api.context.v1.request.ApiFieldRequest;
 import com.totvs.tjf.api.context.v1.request.ApiPageRequest;
 import com.totvs.tjf.api.context.v1.request.ApiSortRequest;
 import com.totvs.tjf.api.context.v1.response.ApiCollectionResponse;
-import com.totvs.tjf.api.jpa.complexfilter.ComplexFilterRepository;
 import com.totvs.tjf.core.validation.ValidatorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
