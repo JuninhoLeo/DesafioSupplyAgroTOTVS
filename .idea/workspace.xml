@@ -4,27 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5108ec29-feef-4886-a750-6f67a7953c8f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="ProjectId" id="1qQokJFBjdzBYue3RTGHxAmEBsy" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1qZxRXWk051QFuC1kTa6naZ1SSf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,28 +23,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.totvs.supplyagro.exceptions" />
-      <recent name="com.totvs.supplyagro.commons.base.domain" />
-      <recent name="com.totvs.supplyagro.commons.base.application" />
-      <recent name="com.totvs.supplyagro.DesafioSupply.Fazenda.domain" />
-    </key>
-  </component>
   <component name="RunManager">
-    <configuration name="DesafioSupplyApplication" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Java/JDK/jdk-11.0.2" />
-      <option name="MAIN_CLASS_NAME" value="com.totvs.supplyagro.DesafioSupply.DesafioSupplyApplication" />
-      <module name="DesafioSupply" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.totvs.supplyagro.DesafioSupply.DesafioSupplyApplication" />
-      <module name="DesafioSupply" />
+    <configuration name="Aplication" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <module name="DesafioSupplyAgroTOTVS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,11 +34,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5108ec29-feef-4886-a750-6f67a7953c8f" name="Default Changelist" comment="" />
-      <created>1617021318472</created>
+      <changelist id="5509694f-7133-4497-8e58-fb649a03a1f3" name="Default Changelist" comment="" />
+      <created>1617300905516</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617021318472</updated>
+      <updated>1617300905516</updated>
     </task>
     <servers />
   </component>
@@ -77,11 +47,23 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
